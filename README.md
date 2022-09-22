@@ -1,4 +1,5 @@
-# use-collapsible
+# use-collapsible-hook
+
 
 A React.js hook for creating collapsible content.
 
