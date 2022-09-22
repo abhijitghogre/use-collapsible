@@ -1,5 +1,5 @@
 {
-  "name": "use-collapsible",
+  "name": "use-collapsible-hook",
   "version": "1.0.0",
   "description": "A React.js hook for creating collapsible content.",
   "main": "dist/index.js",
