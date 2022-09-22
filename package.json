@@ -1,6 +1,6 @@
 {
   "name": "use-collapsible-hook",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A React.js hook for creating collapsible content.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -8,7 +8,18 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "reactjs",
+    "react.js",
+    "react hook",
+    "react hooks",
+    "collapsible",
+    "accordion",
+    "collapse",
+    "expand",
+    "toggle"
+  ],
   "author": "Abhijit Ghogre",
   "license": "ISC",
   "devDependencies": {
