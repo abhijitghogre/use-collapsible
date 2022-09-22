@@ -5,14 +5,14 @@ A React.js hook for creating collapsible content.
 ## Installation
 
 ```bash
-npm install use-collapsible
+npm install use-collapsible-hook
 ```
 
 ## Usage
 
 ```jsx
 import React from 'react';
-import useCollapsible from 'use-collapsible';
+import useCollapsible from 'use-collapsible-hook';
 
 const App = () => {
     const {
